@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 8fr;
+  grid-template-rows: 1fr 14fr;
+  justify-content: center;
+  // align-items: center;
+  width: 95%;
+  height: 95%;
+}

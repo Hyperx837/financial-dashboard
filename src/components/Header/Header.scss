@@ -1,0 +1,21 @@
+header {
+  grid-column: span 2 / auto;
+  display: flex;
+  justify-content: space-between;
+  h1 {
+    align-self: center;
+    color: rgb(124, 124, 124);
+    font-family: "Urbanist";
+    font-size: 2.3rem;
+    // font-style: normal;
+    font-style: italic;
+    span {
+      // padding-left: 3px;
+      color: black;
+    }
+  }
+  div {
+    width: 44px;
+    background-color: #000;
+  }
+}
